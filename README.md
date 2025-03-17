@@ -34,10 +34,5 @@ Check out my portfolio here: [My Portfolio](https://your-portfolio-link.com)
    npm start
    ```
 
-## 📬 Contact Me
-Feel free to reach out:
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
 If you like my portfolio, don't forget to ⭐ the repo! 😃
