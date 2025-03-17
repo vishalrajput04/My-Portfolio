@@ -6,10 +6,8 @@ Welcome to my personal portfolio website! 🎉 This is where I showcase my skill
 Check out my portfolio here: [My Portfolio](https://your-portfolio-link.com)
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React.js
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Other Tools:** Git, GitHub, Netlify/Vercel, GitHub Pages
+- **Frontend:** HTML, CSS, JavaScript
+- **Other Tools:** GitHub Pages
 
 ## 📂 Features
 ✅ Clean and modern UI/UX
