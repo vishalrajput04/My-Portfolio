@@ -1,1 +1,45 @@
-# My-Portfolio
+# 🚀 My Portfolio Website
+
+Welcome to my personal portfolio website! 🎉 This is where I showcase my skills, projects, and experience in **Computer Science, Web Development, and Software Engineering**.
+
+## 🔗 Live Website
+Check out my portfolio here: [My Portfolio](https://your-portfolio-link.com)
+
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Other Tools:** Git, GitHub, Netlify/Vercel, GitHub Pages
+
+## 📂 Features
+✅ Clean and modern UI/UX
+✅ Fully responsive design
+✅ Showcases my projects and skills
+✅ Contact form for easy communication
+✅ Resume download option
+
+## 📝 How to Use
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/your-username/your-portfolio.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd your-portfolio
+   ```
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
+4. Start the development server:
+   ```sh
+   npm start
+   ```
+
+## 📬 Contact Me
+Feel free to reach out:
+- 📧 Email: your-email@example.com
+- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
+- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+
+If you like my portfolio, don't forget to ⭐ the repo! 😃
