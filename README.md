@@ -16,23 +16,5 @@ Check out my portfolio here: [My Portfolio](https://your-portfolio-link.com)
 ✅ Contact form for easy communication
 ✅ Resume download option
 
-## 📝 How to Use
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/your-username/your-portfolio.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd your-portfolio
-   ```
-3. Install dependencies:
-   ```sh
-   npm install
-   ```
-4. Start the development server:
-   ```sh
-   npm start
-   ```
-
 
 If you like my portfolio, don't forget to ⭐ the repo! 😃
